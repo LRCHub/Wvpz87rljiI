@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "僕に贈る歌",
+  "base_artist": "今宵、××と夢を見る。",
+  "createdAt": "2026-03-13T09:30:23.889472Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕に贈る歌",
+      "artist": "今宵、××と夢を見る。",
+      "has_synced": false,
+      "path": "select/pl_01_僕に贈る歌_今宵、××と夢を見る。.txt"
+    }
+  ]
+}
